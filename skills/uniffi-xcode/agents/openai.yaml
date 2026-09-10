@@ -1,0 +1,4 @@
+interface:
+  display_name: "UniFFI Xcode Integration"
+  short_description: "Automatically bridges Rust projects into Xcode."
+  default_prompt: "Use $uniffi-xcode to integrate the current Rust project with its Xcode or Swift app and verify the bridge."
